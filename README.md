@@ -3,7 +3,7 @@
 **AI Engineer** building reliable LLM agents, RAG systems and machine-learning models. I come from quality
 engineering, so everything I build ships with tests and honest evaluation numbers.
 
-🌐 **Portfolio:** [grandhipadmavathi.github.io](https://grandhipadmavathi.github.io) · 📫 gvpadmavathi2003@gmail.com
+🌐 **Portfolio:** [grandhipadmavathi.github.io](https://grandhipadmavathi.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/padmavathi-grandhi-7b5b39234/) · 📫 gvpadmavathi2003@gmail.com
 
 ### Projects
 
